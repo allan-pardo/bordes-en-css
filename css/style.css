@@ -1,0 +1,57 @@
+body{
+    background-color: #FFB238;
+}
+.logo{
+    width: 100px;
+}
+a{
+    border: 4px solid black ;
+    padding: 10px;
+    border-radius: 20px;
+}
+header{
+    text-align: center;
+}
+nav li{
+    display: inline;
+    padding: 60px;
+    font-size: 25px;
+}
+.bordes{
+    background-color: azure;
+    border: 5px solid black;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+.Welcome{
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 15px;
+    text-align: center;
+    margin: 80px 600px 80px 600px;
+}
+.courses{
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin: 80px 600px 80px 600px;
+}
+.blocke{
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin: 30px 250px 50px 250px;
+}
+footer{
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 15px;
+    text-align: center;
+    margin: 80px 200px 80px 200px;
+    color: rgb(126, 126, 126);
+}
